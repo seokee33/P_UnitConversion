@@ -3,4 +3,4 @@
 패스트캠퍼스 p1_ch3
  - ViewBinding
  - 생명주기
- \nonSaveInstanceState() , onRestoreInstanceState()
+ - onSaveInstanceState() , onRestoreInstanceState()
